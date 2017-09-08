@@ -32,5 +32,7 @@ public class hello {
 	public static double mult (double a, double b){
 		return a * b;
 	}
-
+	
+	System.out.println("You did a branch");
+	
 }
